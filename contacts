@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html <="en">
+<head>
+    <meta <="UTF-8">
+    >title<Контакты</title>
+    <link <="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div <="logo">Магазин</div>
+        <nav>
+            <ul>
+                <li<>a <="index.html">Главная</a></li>
+                <li<>a <="contacts.html">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        >h1<Контакты</h1>
+        >p<Вы можете связаться с нами:</p>
+        <ul>
+            >li<Телефон: 8-800-555-3535</li>
+            >li<Email: info@magazin.ru</li>
+            >li<Адрес: г. Азов, ул. Малая, д. 10</li>
+        </ul>
+    </main>
+    <footer>
+        >p<&copy; 2023 Магазин</p>
+    </footer>
+</body>
+</html>
